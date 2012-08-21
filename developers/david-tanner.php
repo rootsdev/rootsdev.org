@@ -22,7 +22,7 @@
     </td>
     <td>
         I am an Electrical Engineering student at Brigham Young University.  
-        I am huge fan of Star Wars, but I think by daughter might be bigger, and she is only 2.
+        I am huge fan of Star Wars, but I think my daughter might be bigger, and she is only 2.
         I am the admin for the rootsdev.org server, and am excited to be involved in the new rootsdev world.   
     </td>
 </tr>
