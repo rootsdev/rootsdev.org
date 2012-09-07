@@ -1,4 +1,4 @@
-<tr id="david.tanner">
+<tr id="davidtanner">
     <td>
         <h4>Name: </h4>
     </td>

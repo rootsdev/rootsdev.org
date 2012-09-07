@@ -5,7 +5,7 @@
         <div class="subnav">
             <ul class="nav nav-pills">
                 <li>
-                    <a href="#david.tanner">David Tanner</a>
+                    <a href="#davidtanner">David Tanner</a>
                 </li>
             </ul>
         </div>
