@@ -10,6 +10,10 @@ body {
   width: 270px;
 }
 
+section {
+  padding-top: 40px;
+}
+
 .bio .table {
   margin-bottom: 0px;
 }
