@@ -12,7 +12,7 @@
     
     <div class="span9">
     
-        <?php include 'definitions.php';?>
+        <?php include('definitions.php');?>
         
         <section id="getinvolved">
             <h2>Get Involved</h2>

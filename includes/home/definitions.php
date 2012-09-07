@@ -3,15 +3,15 @@
     <div class="well">
         <div class="row">
             <div class="span4">
-                <?php include 'includes/rootsdef.php'; ?>
+                <?php include('includes/home/def-roots.php'); ?>
             </div>
             <div class="span4">
-                <?php include 'includes/developdef.php'; ?>
+                <?php include('includes/home/def-develop.php'); ?>
             </div>
         </div>
         <div class="row">
             <div class="span8">
-                <?php include 'includes/rootsdevdef.php'; ?>
+                <?php include('includes/home/def-rootsdev.php'); ?>
             </div>
         </div>
     </div>
