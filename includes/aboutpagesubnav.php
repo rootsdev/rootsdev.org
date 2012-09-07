@@ -1,25 +1,17 @@
 
 <div class="container">
-    <header class="jumbotron subhead" id="overview">
-        <h1>About Us</h1>
-        <div class="subnav">
-            <ul class="nav nav-pills">
-                <li>
-                    <a href="#davidtanner">David Tanner</a>
-                </li>
-            </ul>
-        </div>
-    </header>
+    <h1>About Us</h1>
     
-    <div class="hero-unit">
-        <div class='row'>
-            <div class='span6'>
-                <table>
-                    <tbody>
-                        <?php include 'developers/david-tanner.php';?>
-                    </tbody>
-                </table>
-            </div>
-        </div>
+    <div class="span3 subnav-wrap">
+        <ul class="nav nav-tabs nav-stacked subnav" data-spy="affix" data-offset-top="0">
+            <li><a href="#davidtanner">David Tanner</a></li>
+        </ul>
     </div>
+    
+    <div class="span9">
+        <!-- begin developer includes -->
+        <?php include 'developers/david-tanner.php';?>
+        <!-- begin developer includes -->
+    </div>
+    
 </div>

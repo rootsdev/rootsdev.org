@@ -1,4 +1,6 @@
+/*
 $(document).scroll(function(){
+    
     // If has not activated (has no attribute "data-top"
     if (!$('.subnav').attr('data-top')) {
         // If already fixed, then do nothing
@@ -13,3 +15,4 @@ $(document).scroll(function(){
     else
         $('.subnav').removeClass('subnav-fixed');
 });
+*/
