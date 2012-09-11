@@ -10,6 +10,7 @@
       <div class="nav-collapse">
         <ul class="nav">
           <li><a href="index.php">Home</a></li>
+          <li><a href="resources.php">Resources</a></li>
           <li><a href="blog/">RootsDev blog</a></li>
           <li><a href="about.php">About Us</a></li>
         </ul>
