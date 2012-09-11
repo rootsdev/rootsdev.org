@@ -5,7 +5,7 @@
             <div class="span4">
                 <?php include('includes/home/def-roots.php'); ?>
             </div>
-            <div class="span4">
+            <div class="span4" style="float:right; margin-right:30px;">
                 <?php include('includes/home/def-develop.php'); ?>
             </div>
         </div>
